@@ -5,3 +5,4 @@
 
 ---
 ![Uploading glow-preview.png…]()
+[![Glowing Name](https://github.com/Riyaz-khoriwale/Ai-poster-generator/raw/main/glow-preview.png)](https://riyaz-khoriwale.github.io/Ai-poster-generator/)
